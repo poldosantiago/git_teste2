@@ -1,2 +1,2 @@
 # git_teste2
-repositorio paraaprender a trabalhar com git
+repositorio para aprender a trabalhar com git
